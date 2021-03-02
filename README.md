@@ -23,7 +23,7 @@ The data was collected from WHO and United Nations website with the help of Deek
 
 3) Feature transformation using standard scalar-
   
-  using sklearn preprocessing standard scalar to scale the numeric values.
+  Using sklearn preprocessing standard scalar to scale the numeric values.
 
 4) Building Linear Regression model using assumptions-
   
@@ -31,7 +31,7 @@ The data was collected from WHO and United Nations website with the help of Deek
 
 5) Model performance evaluation-
   
-  model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
+  Model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
   
 ### Conclusion- 
    The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.

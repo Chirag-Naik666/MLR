@@ -1,18 +1,18 @@
 # MLR
-Multiple linear regression model predicting the life expectancy using life expectancy dataset.
+## Multiple linear regression model predicting the life expectancy using life expectancy dataset.
 
-About the project-
+### About the project-
    		In this project I am using linear regression to predict the life expectancy using the features in the dataset. 
 
 Python Packages used- Pandas,Numpy,Scipy,sklearn,statmodels,Seaborn and matplotlib
       
-About the data set (life_expectancy) :-
-The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative.
+### About the data set (life_expectancy) :-
+   The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative.
 
-Acknowledgements-
+### Acknowledgements-
 The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
-The project involves-
+### The project involves-
 1) Null value treatment-
   Treating the null values using median or forward fill based on data description.
 2) Exploratory data analysis
@@ -24,4 +24,5 @@ The project involves-
 5) Model performance evaluation
   model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
   
-Conclusion - The model predicts with the adjusted r-squared accuracy of 96.1%.
+### Conclusion- 
+   The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.

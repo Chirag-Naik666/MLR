@@ -13,20 +13,20 @@
 The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
 ### The project involves-
-1) **Null value treatment-**
-  Treating the null values using median or forward fill based on data description.
+1)**Null value treatment-**
+   Treating the null values using median or forward fill based on data description.
   
 2)**Exploratory data analysis-**
-  Univariate and Bivariate analysis using KDE plot, boxplots and heatmap.
+   Univariate and Bivariate analysis using KDE plot, boxplots and heatmap.
 
 3)**Feature transformation-**
-  Using sklearn preprocessing standard scalar to scale the numeric values.
+   Using sklearn preprocessing standard scalar to scale the numeric values.
 
 4)**Building Linear Regression model using assumptions-**
-  Various tests like durbin-watson,vif,goldfeld quandt is used to check for the 5 assumptions.
+   Various tests like durbin-watson,vif,goldfeld quandt is used to check for the 5 assumptions.
 
 5)**Model performance evaluation-**
-  Model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
+   Model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
   
 ### Conclusion- 
    The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.

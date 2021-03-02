@@ -13,7 +13,7 @@
 The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
 
 ### The project involves-
-1) Null value treatment-
+1) *Null value treatment*-
   Treating the null values using median or forward fill based on data description.
 2) Exploratory data analysis-
   Univariate and Bivariate analysis using KDE plot, boxplots and heatmap.

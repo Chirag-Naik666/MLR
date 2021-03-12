@@ -4,7 +4,7 @@
 ### About the project-
    In this project I am using linear regression to predict the life expectancy using the features in the dataset. 
 
-### Python Packages used- Pandas,Numpy,Scipy,sklearn,statmodels,Seaborn and matplotlib.
+### Python Packages used- Pandas,Numpy,scikit-learn,statmodels,Seaborn and matplotlib.
       
 ### About the data set (life_expectancy) :-
    The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative.

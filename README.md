@@ -29,4 +29,4 @@ The data was collected from WHO and United Nations website with the help of Deek
    Model rmse, mean absolute error, R-square and adjusted R-squared are used to evaluate the final model.
   
 ### Conclusion- 
-   The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
+   The model predicts the life expectancy with the adjusted r-squared accuracy of 96.10%.
